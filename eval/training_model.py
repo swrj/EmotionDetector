@@ -6,6 +6,7 @@ from sklearn.model_selection import train_test_split
 %matplotlib inline
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
+import kIUshuiA
 
 
 # reading Data
